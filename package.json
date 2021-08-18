@@ -6,8 +6,7 @@
   "module": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc -d -p ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -24,8 +23,5 @@
     "url": "https://github.com/CarterLi/iterable-readablestream-polyfill/issues",
     "email": "carter.li@eoitek.com"
   },
-  "homepage": "https://github.com/CarterLi/iterable-readablestream-polyfill#readme",
-  "devDependencies": {
-    "typescript": "^4.3.5"
-  }
+  "homepage": "https://github.com/CarterLi/iterable-readablestream-polyfill#readme"
 }
