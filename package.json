@@ -1,0 +1,31 @@
+{
+  "name": "iterable-readablestream-polyfill",
+  "version": "1.0.0",
+  "description": "Iterable ReadableStream Polyfill",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -d -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarterLi/iterable-readablestream-polyfill.git"
+  },
+  "keywords": [
+    "ReabableStream",
+    "polyfill",
+    "StreamApi"
+  ],
+  "author": "李通洲 <carter.li@eoitek.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarterLi/iterable-readablestream-polyfill/issues",
+    "email": "carter.li@eoitek.com"
+  },
+  "homepage": "https://github.com/CarterLi/iterable-readablestream-polyfill#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
